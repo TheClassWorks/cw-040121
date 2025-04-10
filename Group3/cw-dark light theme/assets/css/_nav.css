@@ -1,0 +1,28 @@
+.phone {
+  transform: rotate(270deg);
+}
+
+@media screen and (min-width: 992px) {
+  .position-md-fixed {
+    /* position: fixed; */
+    position: absolute;
+    top: 50px;
+  }
+}
+
+.course-list {
+  width: 230px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 10px;
+}
+
+.course-list-item {
+  padding: 3px;
+}
+
+.caret-rotate {
+  transform: rotate(180deg);
+  transition: all 0.5s ease;
+}

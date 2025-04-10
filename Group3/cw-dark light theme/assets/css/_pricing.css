@@ -1,0 +1,7 @@
+.pricing-box{
+    transition: all;
+}
+
+.pricing-box:hover{
+    transform: scale(1.05);
+}

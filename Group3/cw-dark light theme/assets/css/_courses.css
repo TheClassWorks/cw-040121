@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .min-height-lg{
+        min-height: 90px!important;
+      }
+  }
